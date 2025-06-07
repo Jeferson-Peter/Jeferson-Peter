@@ -1,5 +1,4 @@
 # 👨‍💻 Jeferson Peter | Python Developer · Web & Data Automation · API & Workflow Specialist
-# 👨‍💻 Jeferson Peter | Python Developer · Scalable APIs · Web & Data Automation
 
 
 Welcome to my GitHub profile!  
