@@ -1,4 +1,6 @@
-# Hi there 👋  
+# 👨‍💻 Jeferson Peter | Python Developer · Web & Data Automation · API & Workflow Specialist
+# 👨‍💻 Jeferson Peter | Python Developer · Scalable APIs · Web & Data Automation
+
 
 Welcome to my GitHub profile!  
 I'm **Jeferson Peter**, a Software Developer with expertise in **process automation**, **modern web development**, and **data-driven solutions**. My focus is on creating scalable and efficient systems using cutting-edge technologies. With a passion for learning and problem-solving, I aim to deliver impactful solutions that bridge business needs and technology.
@@ -23,20 +25,24 @@ I'm **Jeferson Peter**, a Software Developer with expertise in **process automat
 ### **Programming Languages & Frameworks**
 <div style="display: inline_block">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" height="50" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" height="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" height="50" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="50" width="60">
 </div>
 
 ---
 
 ### **Tools & Platforms**
 <div style="display: inline_block">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg" alt="Apache Airflow" height="50" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" height="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" height="50" width="60">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" height="50" width="60">
 </div>
 
 ---
@@ -46,6 +52,22 @@ I'm **Jeferson Peter**, a Software Developer with expertise in **process automat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50" width="60">
 </div>
+
+---
+
+## 🛠️ Featured Projects
+
+- **Airflow Data Pipelines**
+  
+  A collection of modular and production-ready DAGs for data processing and automation, designed with maintainability and scalability in mind.  
+  🔗 [Repository](https://github.com/Jeferson-Peter/airflow) – Built with **Apache Airflow**, featuring parameterized DAGs, custom operators, and clear separation of concerns across tasks.
+
+- **Financial Tracker**
+  
+  A full-stack finance management system (🚧 **in progress**), split into backend and frontend:
+  - 🔙 **Backend**: [financial-tracker-api](https://github.com/Jeferson-Peter/financial-tracker-api) – Built with Django REST Framework and secured with **JWT authentication**.
+  - 🌐 **Frontend**: [financial-tracker-ui](https://github.com/Jeferson-Peter/financial-tracker-ui) – Developed using **Next.js** and **Shadcn UI**, with dynamic data visualization and a modern, responsive interface.
+
 
 ---
 
