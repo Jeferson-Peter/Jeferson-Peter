@@ -1,8 +1,9 @@
 # 👨‍💻 Jeferson Peter | Python Developer · Web & Data Automation · API & Workflow Specialist
 
-
 Welcome to my GitHub profile!  
-I'm **Jeferson Peter**, a Software Developer with expertise in **process automation**, **modern web development**, and **data-driven solutions**. My focus is on creating scalable and efficient systems using cutting-edge technologies. With a passion for learning and problem-solving, I aim to deliver impactful solutions that bridge business needs and technology.
+I'm **Jeferson Peter**, a Software Developer with expertise in **process automation**, **modern web development**, and **data-driven solutions**.  
+My focus is on creating scalable and efficient systems using cutting-edge technologies.  
+With a passion for learning and problem-solving, I aim to deliver impactful solutions that bridge business needs and technology.
 
 ---
 
@@ -54,18 +55,20 @@ I'm **Jeferson Peter**, a Software Developer with expertise in **process automat
 
 ---
 
-## 🛠️ Featured Projects
+## 📦 Published Project
 
-- **CloakData**
-  
+- [**CloakData**](https://pypi.org/project/cloakdata/)  
   A flexible and extensible **data anonymization library** built on [Polars](https://pola.rs/).  
-  Designed for **privacy, compliance, and testing** with minimal overhead.
+  Designed for **privacy, compliance, and testing** with minimal overhead.  
+  Available on **PyPI**:  
 
-  🔗 Resources:  
-  - [Repository](https://github.com/Jeferson-Peter/cloakdata)  
-  - [PyPI Package](https://pypi.org/project/cloakdata/)
+  ![PyPI](https://img.shields.io/pypi/v/cloakdata?style=flat-square) 
+  ![Downloads](https://img.shields.io/pypi/dm/cloakdata?style=flat-square) 
+  ![License](https://img.shields.io/github/license/Jeferson-Peter/cloakdata?style=flat-square)
 
-  Provides anonymization strategies like masking, pseudonymization, replacement, sequential IDs, and more, making it ideal for sensitive data handling in modern pipelines.
+---
+
+## 🛠️ Featured Projects
 
 - **Airflow Data Pipelines**
   
@@ -86,12 +89,21 @@ I'm **Jeferson Peter**, a Software Developer with expertise in **process automat
 
 ---
 
-## 🌟 Additional Strengths
+## 🌟 Professional Highlights
 
-- **Process Automation:** Expertise in designing workflows and automating repetitive tasks to improve efficiency and reduce errors.
-- **Agile Practices:** Solid experience working with Agile methodologies, including Scrum and Kanban, for project management and team collaboration.
-- **Technical Communication:** Skilled in documenting processes and providing clear, actionable insights for team members and stakeholders.
-- **Continuous Integration/Deployment:** Familiarity with CI/CD pipelines to streamline development and deployment.
+- Designed **ETL pipelines** with Apache Airflow and Polars.  
+- Built **scalable REST APIs** using Django REST Framework.  
+- Developed **full-stack apps** with Next.js and React.  
+- Experienced in **Docker, RabbitMQ, Redis** for distributed systems.
+
+---
+
+## 📝 Writing & Content
+
+- Author of bilingual articles on **Python, Data Engineering, and Automation**.  
+- Publishing technical tutorials on my [Blog](https://www.codecraftpython.com).  
+- Building the *CodeCraft Python* series (e-book + articles).
+
 ---
 
 ## 📊 GitHub Stats
@@ -108,6 +120,13 @@ I'm **Jeferson Peter**, a Software Developer with expertise in **process automat
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jefersonpeter" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-jefersonpeter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://pypi.org/project/cloakdata/" target="_blank">
+    <img alt="PyPI CloakData" src="https://img.shields.io/badge/PyPI-CloakData-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
+  </a>
+  <a href="https://www.codecraftpython.com" target="_blank">
+    <img alt="Blog CodeCraftPython" src="https://img.shields.io/badge/Blog-CodeCraftPython-16a34a?style=for-the-badge&logo=mdbook&logoColor=white">
   </a>
 </p>
+
