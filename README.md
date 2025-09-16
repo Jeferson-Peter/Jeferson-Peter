@@ -56,17 +56,33 @@ I'm **Jeferson Peter**, a Software Developer with expertise in **process automat
 
 ## 🛠️ Featured Projects
 
+- **CloakData**
+  
+  A flexible and extensible **data anonymization library** built on [Polars](https://pola.rs/).  
+  Designed for **privacy, compliance, and testing** with minimal overhead.
+
+  🔗 Resources:  
+  - [Repository](https://github.com/Jeferson-Peter/cloakdata)  
+  - [PyPI Package](https://pypi.org/project/cloakdata/)
+
+  Provides anonymization strategies like masking, pseudonymization, replacement, sequential IDs, and more, making it ideal for sensitive data handling in modern pipelines.
+
 - **Airflow Data Pipelines**
   
-  A collection of modular and production-ready DAGs for data processing and automation, designed with maintainability and scalability in mind.  
-  🔗 [Repository](https://github.com/Jeferson-Peter/airflow) – Built with **Apache Airflow**, featuring parameterized DAGs, custom operators, and clear separation of concerns across tasks.
+  A collection of modular and production-ready DAGs for data processing and automation, designed with maintainability and scalability in mind.
+
+  🔗 Resources:  
+  - [Repository](https://github.com/Jeferson-Peter/airflow)
+
+  Built with **Apache Airflow**, featuring parameterized DAGs, custom operators, and clear separation of concerns across tasks.
 
 - **Financial Tracker**
   
   A full-stack finance management system (🚧 **in progress**), split into backend and frontend:
-  - 🔙 **Backend**: [financial-tracker-api](https://github.com/Jeferson-Peter/financial-tracker-api) – Built with Django REST Framework and secured with **JWT authentication**.
-  - 🌐 **Frontend**: [financial-tracker-ui](https://github.com/Jeferson-Peter/financial-tracker-ui) – Developed using **Next.js** and **Shadcn UI**, with dynamic data visualization and a modern, responsive interface.
 
+  🔗 Resources:  
+  - [Backend](https://github.com/Jeferson-Peter/financial-tracker-api) – Built with Django REST Framework and secured with **JWT authentication**.  
+  - [Frontend](https://github.com/Jeferson-Peter/financial-tracker-ui) – Developed using **Next.js** and **Shadcn UI**, with dynamic data visualization and a modern, responsive interface.
 
 ---
 
