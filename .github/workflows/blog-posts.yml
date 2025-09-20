@@ -16,6 +16,8 @@ jobs:
         with:
           feed_list: ${{ secrets.BLOG_FEED_URL }}
           max_post_count: 5
-          template: "- [$title]($url)"
+          date_format: "yyyy-MM-dd"
+          template: |
+            | [$title]($url) | $date |
           remove_duplicates: true
 
