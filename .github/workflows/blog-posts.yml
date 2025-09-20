@@ -1,0 +1,20 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    - cron: "0 12 * * 1,4"
+  workflow_dispatch:
+
+jobs:
+  update-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.codecraftpython.com/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url)"
+          remove_duplicates: true

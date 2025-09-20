@@ -104,6 +104,10 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 - Publishing technical tutorials on my [Blog](https://www.codecraftpython.com).  
 - Building the *CodeCraft Python* series (e-book + articles).
 
+## 📰 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ## 📊 GitHub Stats
