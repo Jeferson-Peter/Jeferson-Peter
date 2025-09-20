@@ -105,12 +105,8 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 - Building the *CodeCraft Python* series (e-book + articles).
 
 ## 📰 Latest Blog Posts
-
-## 📰 Latest Blog Posts
-
-| Post | Date |
-| --- | --- |
-<!-- BLOG-POST-LIST:START -->| [Selecting Rows and Columns — Pandas vs Polars](https://codecraftpython.com/blog/selecting-rows-and-columns-pandas-vs-polars) | Thu Sep 18 2025 1:00 PM || [Using `with open&lpar;&rpar;` — Context Manager for Files](https://codecraftpython.com/blog/using-with-open-context-manager-for-files) | Mon Sep 15 2025 1:00 PM || [Creating DataFrames in Pandas vs Polars](https://codecraftpython.com/blog/creating-dataframes-in-pandas-vs-polars) | Thu Sep 11 2025 1:00 PM || [Python: Difference between `is` and `==` &lpar;Identity vs Equality&rpar;](https://codecraftpython.com/blog/is-vs-identity-vs-equality) | Mon Sep 08 2025 1:00 PM || [Using `collections.Counter` to Count Items in One Line](https://codecraftpython.com/blog/collectionscounter-count-items-in-one-line) | Sat Sep 06 2025 1:00 PM |<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ---
