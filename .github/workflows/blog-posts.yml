@@ -2,20 +2,26 @@ name: Update latest blog posts
 
 on:
   schedule:
-    - cron: "0 12 * * 1,4"
+    - cron: "0 12 * * 1,4"   # Seg/Qui 12:00 UTC (09:00 BRT)
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-posts:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
       - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: ${{ secrets.BLOG_FEED_URL }}
+          feed_list: "https://codecraftpython.com/rss.xml"
           max_post_count: 5
-          template: |
-            | [$title]($url) | $date |
+          comment_tag_name: "BLOG-POST-LIST"
+          template: "- [$title]($url) | $date"
+          date_format: "yyyy-MM-dd"
           remove_duplicates: true
