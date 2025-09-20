@@ -106,15 +106,15 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Selecting Rows and Columns — Pandas vs Polars](https://codecraftpython.com/blog/selecting-rows-and-columns-pandas-vs-polars) — 18 000000 2025
+- [Selecting Rows and Columns — Pandas vs Polars](https://codecraftpython.com/blog/selecting-rows-and-columns-pandas-vs-polars) — Sep 18, 2025
 
-- [Using `with open&lpar;&rpar;` — Context Manager for Files](https://codecraftpython.com/blog/using-with-open-context-manager-for-files) — 15 000000 2025
+- [Using `with open&lpar;&rpar;` — Context Manager for Files](https://codecraftpython.com/blog/using-with-open-context-manager-for-files) — Sep 15, 2025
 
-- [Creating DataFrames in Pandas vs Polars](https://codecraftpython.com/blog/creating-dataframes-in-pandas-vs-polars) — 11 000000 2025
+- [Creating DataFrames in Pandas vs Polars](https://codecraftpython.com/blog/creating-dataframes-in-pandas-vs-polars) — Sep 11, 2025
 
-- [Python: Difference between `is` and `==` &lpar;Identity vs Equality&rpar;](https://codecraftpython.com/blog/is-vs-identity-vs-equality) — 08 000000 2025
+- [Python: Difference between `is` and `==` &lpar;Identity vs Equality&rpar;](https://codecraftpython.com/blog/is-vs-identity-vs-equality) — Sep 8, 2025
 
-- [Using `collections.Counter` to Count Items in One Line](https://codecraftpython.com/blog/collectionscounter-count-items-in-one-line) — 06 000000 2025
+- [Using `collections.Counter` to Count Items in One Line](https://codecraftpython.com/blog/collectionscounter-count-items-in-one-line) — Sep 6, 2025
 <!-- BLOG-POST-LIST:END -->
 
 
