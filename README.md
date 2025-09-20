@@ -105,6 +105,9 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 - Building the *CodeCraft Python* series (e-book + articles).
 
 ## 📰 Latest Blog Posts
+
+| Post | Date |
+|------|------|
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
