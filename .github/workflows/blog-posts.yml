@@ -21,8 +21,9 @@ jobs:
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
           template: $newline- [$title]($url) — $date$newline
-          date_format: "dd LLL yyyy"
+          date_format: "mmm d, yyyy"
           remove_duplicates: true
           commit_message: "docs(readme): update latest blog posts"
+
 
 
