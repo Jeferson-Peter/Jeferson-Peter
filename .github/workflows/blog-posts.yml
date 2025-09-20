@@ -23,7 +23,9 @@ jobs:
           template: $newline- [$title]($url) — $date$newline
           date_format: "mmm d, yyyy"
           remove_duplicates: true
+          disable_html_encoding: true
           commit_message: "docs(readme): update latest blog posts"
+
 
 
 
