@@ -13,8 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          persist-credentials: false
 
       - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
@@ -22,6 +20,7 @@ jobs:
           feed_list: "https://codecraftpython.com/rss.xml"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
-          template: "- [$title]($url) | $date"
+          template: "[$title]($url) | $date"
           date_format: "yyyy-MM-dd"
           remove_duplicates: true
+          commit_message: "docs(readme): update latest blog posts"
