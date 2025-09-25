@@ -106,6 +106,8 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CSV Read Performance — Pandas vs Polars](https://codecraftpython.com/blog/csv-read-performance-pandas-vs-polars) — Sep 25, 2025
+
 - [Advanced f-strings — Formatting Dates and Numbers](https://codecraftpython.com/blog/advanced-f-strings-formatting-dates-and-numbers) — Sep 22, 2025
 
 - [Selecting Rows and Columns — Pandas vs Polars](https://codecraftpython.com/blog/selecting-rows-and-columns-pandas-vs-polars) — Sep 18, 2025
@@ -113,8 +115,6 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 - [Using `with open()` — Context Manager for Files](https://codecraftpython.com/blog/using-with-open-context-manager-for-files) — Sep 15, 2025
 
 - [Creating DataFrames in Pandas vs Polars](https://codecraftpython.com/blog/creating-dataframes-in-pandas-vs-polars) — Sep 11, 2025
-
-- [Python: Difference between `is` and `==` (Identity vs Equality)](https://codecraftpython.com/blog/is-vs-identity-vs-equality) — Sep 8, 2025
 <!-- BLOG-POST-LIST:END -->
 
 
