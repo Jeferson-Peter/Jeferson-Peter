@@ -106,6 +106,8 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding __str__ vs __repr__](https://codecraftpython.com/blog/understanding-__str__-vs-__repr) — Oct 6, 2025
+
 - [GroupBy Operations — Pandas vs Polars](https://codecraftpython.com/blog/groupby-operations-pandas-vs-polars) — Oct 2, 2025
 
 - [Working with Dates — Pandas vs Polars](https://codecraftpython.com/blog/working-with-dates-pandas-vs-polars) — Sep 30, 2025
@@ -113,8 +115,6 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 - [The itertools Module in 3 Quick Examples](https://codecraftpython.com/blog/the-itertools-module-in-3-quick-examples) — Sep 29, 2025
 
 - [CSV Read Performance — Pandas vs Polars](https://codecraftpython.com/blog/csv-read-performance-pandas-vs-polars) — Sep 25, 2025
-
-- [Advanced f-strings — Formatting Dates and Numbers](https://codecraftpython.com/blog/advanced-f-strings-formatting-dates-and-numbers) — Sep 22, 2025
 <!-- BLOG-POST-LIST:END -->
 
 
