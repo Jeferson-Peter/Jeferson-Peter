@@ -106,6 +106,8 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How range() Works — Lazy, Not a List](https://codecraftpython.com/blog/how-range-works-lazy-not-a-list) — Oct 20, 2025
+
 - [Handling Null Values — Pandas vs Polars](https://codecraftpython.com/blog/handling-null-values-pandas-vs-polars) — Oct 16, 2025
 
 - [The Unpacking Operator * in Lists and Dictionaries](https://codecraftpython.com/blog/the-unpacking-operator-in-lists-and-dictionaries) — Oct 13, 2025
@@ -113,8 +115,6 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 - [Merge/Join Operations — Pandas vs Polars](https://codecraftpython.com/blog/mergejoin-operations-pandas-vs-polars) — Oct 9, 2025
 
 - [Understanding __str__ vs __repr__](https://codecraftpython.com/blog/understanding-__str__-vs-__repr) — Oct 6, 2025
-
-- [Working with Dates — Pandas vs Polars](https://codecraftpython.com/blog/working-with-dates-pandas-vs-polars) — Sep 30, 2025
 <!-- BLOG-POST-LIST:END -->
 
 
