@@ -106,6 +106,8 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using map() and filter()](https://codecraftpython.com/blog/using-map-and-filter) — Nov 3, 2025
+
 - [Creating Anonymous Functions with lambda](https://codecraftpython.com/blog/creating-anonymous-functions-with-lambda) — Oct 27, 2025
 
 - [Sorting and Ranking — Pandas vs Polars](https://codecraftpython.com/blog/sorting-and-ranking-pandas-vs-polars) — Oct 23, 2025
@@ -113,8 +115,6 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 - [How range() Works — Lazy, Not a List](https://codecraftpython.com/blog/how-range-works-lazy-not-a-list) — Oct 20, 2025
 
 - [Handling Null Values — Pandas vs Polars](https://codecraftpython.com/blog/handling-null-values-pandas-vs-polars) — Oct 16, 2025
-
-- [The Unpacking Operator * in Lists and Dictionaries](https://codecraftpython.com/blog/the-unpacking-operator-in-lists-and-dictionaries) — Oct 13, 2025
 <!-- BLOG-POST-LIST:END -->
 
 
