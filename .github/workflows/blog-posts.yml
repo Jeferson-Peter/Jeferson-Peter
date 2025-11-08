@@ -17,7 +17,7 @@ jobs:
       - name: Update README with latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://codecraftpython.com/rss.xml"
+          feed_list: "https://www.codecraftpython.com/en/rss.xml"
           max_post_count: 5
           comment_tag_name: "BLOG-POST-LIST"
           template: $newline- [$title]($url) — $date$newline
@@ -25,6 +25,7 @@ jobs:
           remove_duplicates: true
           disable_html_encoding: true
           commit_message: "docs(readme): update latest blog posts"
+
 
 
 
