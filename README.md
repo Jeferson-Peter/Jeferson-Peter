@@ -142,5 +142,8 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
   <a href="https://www.codecraftpython.com" target="_blank">
     <img alt="Blog CodeCraftPython" src="https://img.shields.io/badge/Blog-CodeCraftPython-16a34a?style=for-the-badge&logo=mdbook&logoColor=white">
   </a>
+  <a href="https://jefersonpeter.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-jefersonpeter.com-6a1b9a?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
 </p>
 
