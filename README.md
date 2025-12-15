@@ -108,13 +108,13 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 <!-- BLOG-POST-LIST:START -->
 - [When to Choose Pandas vs Polars?](https://codecraftpython.com/en/blog/when-to-choose-pandas-vs-polars) — Nov 13, 2025
 
-- [__slots__ in Classes — Saving Memory](https://codecraftpython.com/en/blog/slots__-in-classes-saving-memory) — Nov 10, 2025
-
 - [Lazy Evaluation in Polars vs Immediate Execution in Pandas](https://codecraftpython.com/en/blog/lazy-evaluation-in-polars-vs-immediate-execution-in-pandas) — Nov 6, 2025
 
-- [Using map() and filter()](https://codecraftpython.com/en/blog/using-map-and-filter) — Nov 3, 2025
+- [Sorting and Ranking — Pandas vs Polars](https://codecraftpython.com/en/blog/sorting-and-ranking-pandas-vs-polars) — Oct 23, 2025
 
-- [Creating Anonymous Functions with lambda](https://codecraftpython.com/en/blog/creating-anonymous-functions-with-lambda) — Oct 27, 2025
+- [Handling Null Values — Pandas vs Polars](https://codecraftpython.com/en/blog/handling-null-values-pandas-vs-polars) — Oct 16, 2025
+
+- [The Unpacking Operator * in Lists and Dictionaries](https://codecraftpython.com/en/blog/the-unpacking-operator-in-lists-and-dictionaries) — Oct 13, 2025
 <!-- BLOG-POST-LIST:END -->
 
 
