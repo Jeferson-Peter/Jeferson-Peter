@@ -106,7 +106,7 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [When to Choose Pandas vs Polars — A Practical Perspective](https://codecraftpython.com/en/blog/when-to-choose-pandas-vs-polars) — Nov 13, 2025
+- [From Pandas to Polars: The Shift I Didn’t Expect](https://codecraftpython.com/en/blog/from-pandas-to-polars-the-shift-i-didnt-expect) — Dec 18, 2025
 
 - [Lazy Evaluation in Polars vs Immediate Execution in Pandas — Why It Changes Everything](https://codecraftpython.com/en/blog/lazy-evaluation-in-polars-vs-immediate-execution-in-pandas) — Nov 6, 2025
 
