@@ -106,6 +106,8 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Python Walrus Operator (`:=`): When to Use Assignment Expressions](https://codecraftpython.com/en/blog/the-python-walrus-operator-when-to-use-assignment-expressions) — Feb 24, 2026
+
 - [venv vs uv: Choosing the Right Python Virtual Environment](https://codecraftpython.com/en/blog/venv-vs-uv-choosing-the-right-python-virtual-environment) — Feb 17, 2026
 
 - [From Pandas to Polars: The Shift I Didn’t Expect](https://codecraftpython.com/en/blog/from-pandas-to-polars-the-shift-i-didnt-expect) — Dec 18, 2025
@@ -113,8 +115,6 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 - [Sorting and Ranking — Pandas vs Polars](https://codecraftpython.com/en/blog/sorting-and-ranking-pandas-vs-polars) — Oct 23, 2025
 
 - [Handling Null Values — Pandas vs Polars](https://codecraftpython.com/en/blog/handling-null-values-pandas-vs-polars) — Oct 16, 2025
-
-- [Merge/Join Operations — Pandas vs Polars](https://codecraftpython.com/en/blog/mergejoin-operations-pandas-vs-polars) — Oct 9, 2025
 <!-- BLOG-POST-LIST:END -->
 
 
