@@ -106,6 +106,8 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [contextlib: Create Your Own Context Manager](https://codecraftpython.com/en/blog/contextlib-create-your-own-context-manager) — Mar 10, 2026
+
 - [Generators with yield: Lazy Iteration Made Simple](https://codecraftpython.com/en/blog/generators-with-yield-lazy-iteration-made-simple) — Mar 3, 2026
 
 - [The Python Walrus Operator (`:=`): When to Use Assignment Expressions](https://codecraftpython.com/en/blog/the-python-walrus-operator-when-to-use-assignment-expressions) — Feb 24, 2026
@@ -113,8 +115,6 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 - [venv vs uv: Choosing the Right Python Virtual Environment](https://codecraftpython.com/en/blog/venv-vs-uv-choosing-the-right-python-virtual-environment) — Feb 17, 2026
 
 - [From Pandas to Polars: The Shift I Didn’t Expect](https://codecraftpython.com/en/blog/from-pandas-to-polars-the-shift-i-didnt-expect) — Dec 18, 2025
-
-- [Sorting and Ranking — Pandas vs Polars](https://codecraftpython.com/en/blog/sorting-and-ranking-pandas-vs-polars) — Oct 23, 2025
 <!-- BLOG-POST-LIST:END -->
 
 
