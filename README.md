@@ -106,6 +106,8 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Better Logging in Python with Loguru: A Cleaner Alternative to logging](https://codecraftpython.com/en/blog/better-logging-in-python-with-loguru-a-cleaner-alternative-to-logging) — Mar 24, 2026
+
 - [pathlib vs os.path: A Modern Way to Handle File Paths](https://codecraftpython.com/en/blog/pathlib-vs-ospath-a-modern-way-to-handle-file-paths) — Mar 17, 2026
 
 - [contextlib: Create Your Own Context Manager](https://codecraftpython.com/en/blog/contextlib-create-your-own-context-manager) — Mar 10, 2026
@@ -113,8 +115,6 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 - [Generators with yield: Lazy Iteration Made Simple](https://codecraftpython.com/en/blog/generators-with-yield-lazy-iteration-made-simple) — Mar 3, 2026
 
 - [The Python Walrus Operator (`:=`): When to Use Assignment Expressions](https://codecraftpython.com/en/blog/the-python-walrus-operator-when-to-use-assignment-expressions) — Feb 24, 2026
-
-- [venv vs uv: Choosing the Right Python Virtual Environment](https://codecraftpython.com/en/blog/venv-vs-uv-choosing-the-right-python-virtual-environment) — Feb 17, 2026
 <!-- BLOG-POST-LIST:END -->
 
 
