@@ -1,28 +1,23 @@
-# 👨‍💻 Jeferson Peter | Python Developer · Web & Data Automation · API & Workflow Specialist
+# 👨‍💻 Jeferson Peter | Python Developer building automation, APIs, and data workflows
 
-Welcome to my GitHub profile!  
-I'm **Jeferson Peter**, a Software Developer with expertise in **process automation**, **modern web development**, and **data-driven solutions**.  
-My focus is on creating scalable and efficient systems using cutting-edge technologies.  
-With a passion for learning and problem-solving, I aim to deliver impactful solutions that bridge business needs and technology.
+I’m a Software Developer focused on **Python**, **backend engineering**, **process automation**, and **productivity-oriented applications**.
 
----
-
-## 💼 Professional Overview
-
-- 🔧 **Core Expertise:**
-  - Process automation with Python, Apache Airflow, and scripting tools.
-  - Building robust APIs using Django and Django REST Framework.
-  - Full-stack web development with Next.js and React.
-- 🌟 **Additional Skills:**
-  - Knowledge of **Agile methodologies**, ensuring adaptability and collaboration in team environments.
-  - Expertise in **databases** such as PostgreSQL and MySQL, including database design and optimization.
-- 📖 **Learning Goals:** Continuously expanding knowledge in distributed systems, container orchestration (Docker, Kubernetes), and advanced design patterns.
+My work is centered on building reliable systems that automate operations, expose clean APIs, and turn complex workflows into maintainable software. I’m especially interested in backend architecture, developer tooling, data processing, and products that solve real operational problems.
 
 ---
 
-## 🚀 Technical Skills
+## 🚀 What I Do
 
-### **Programming Languages & Frameworks**
+- Build backend services and REST APIs with **Django** and **Django REST Framework**
+- Design automation workflows and ETL pipelines with **Python**, **Apache Airflow**, and data tooling
+- Develop full-stack applications with **Next.js**, **React**, and modern frontend stacks
+- Work with infrastructure and supporting services such as **Docker**, **Redis**, **RabbitMQ**, **PostgreSQL**, and **MySQL**
+
+---
+
+## 🧰 Tech Stack
+
+### Languages & Frameworks
 <div style="display: inline_block">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" height="50" width="60">
@@ -33,9 +28,7 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="50" width="60">
 </div>
 
----
-
-### **Tools & Platforms**
+### Tools & Platforms
 <div style="display: inline_block">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" height="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" width="60">
@@ -45,9 +38,7 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" height="50" width="60">
 </div>
 
----
-
-### **Databases**
+### Databases
 <div style="display: inline_block">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" width="60">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="50" width="60">
@@ -55,54 +46,39 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 
 ---
 
-## 📦 Published Project
+## 📦 Selected Work
 
-- [**CloakData**](https://pypi.org/project/cloakdata/)  
-  A flexible and extensible **data anonymization library** built on [Polars](https://pola.rs/).  
-  Designed for **privacy, compliance, and testing** with minimal overhead.  
-  Available on **PyPI**:  
+### [CloakData](https://pypi.org/project/cloakdata/)
+A data anonymization library built on [Polars](https://pola.rs/) for privacy, compliance, and test-data workflows.
 
-  ![PyPI](https://img.shields.io/pypi/v/cloakdata?style=flat-square) 
-  ![Downloads](https://img.shields.io/pypi/dm/cloakdata?style=flat-square) 
-  ![License](https://img.shields.io/github/license/Jeferson-Peter/cloakdata?style=flat-square)
+It was designed to make sensitive data safer to use in development and analytics environments without adding unnecessary complexity to the pipeline.
 
----
+![PyPI](https://img.shields.io/pypi/v/cloakdata?style=flat-square)
+![Downloads](https://img.shields.io/pypi/dm/cloakdata?style=flat-square)
+![License](https://img.shields.io/github/license/Jeferson-Peter/cloakdata?style=flat-square)
 
-## 🛠️ Featured Projects
+### [Airflow Data Pipelines](https://github.com/Jeferson-Peter/airflow)
+A collection of modular DAGs and workflow components for automation and data processing.
 
-- **Airflow Data Pipelines**
-  
-  A collection of modular and production-ready DAGs for data processing and automation, designed with maintainability and scalability in mind.
+Focused on:
+- reusable orchestration patterns
+- maintainable task design
+- production-oriented workflow structure
 
-  🔗 Resources:  
-  - [Repository](https://github.com/Jeferson-Peter/airflow)
+### [FileMindr](https://github.com/Jeferson-Peter/filemindr)
+A practical application focused on file organization, automation, and productivity workflows.
 
-  Built with **Apache Airflow**, featuring parameterized DAGs, custom operators, and clear separation of concerns across tasks.
+Built to simplify how files are managed and processed, with an emphasis on usability, automation, and clean system design.
 
-- **Financial Tracker**
-  
-  A full-stack finance management system (🚧 **in progress**), split into backend and frontend:
-
-  🔗 Resources:  
-  - [Backend](https://github.com/Jeferson-Peter/financial-tracker-api) – Built with Django REST Framework and secured with **JWT authentication**.  
-  - [Frontend](https://github.com/Jeferson-Peter/financial-tracker-ui) – Developed using **Next.js** and **Shadcn UI**, with dynamic data visualization and a modern, responsive interface.
+- Strong focus on real-world workflow improvement
+- Combines backend logic, automation, and product thinking
+- Reflects my interest in building useful developer and productivity tools
 
 ---
 
-## 🌟 Professional Highlights
+## ✍️ Writing
 
-- Designed **ETL pipelines** with Apache Airflow and Polars.  
-- Built **scalable REST APIs** using Django REST Framework.  
-- Developed **full-stack apps** with Next.js and React.  
-- Experienced in **Docker, RabbitMQ, Redis** for distributed systems.
-
----
-
-## 📝 Writing & Content
-
-- Author of bilingual articles on **Python, Data Engineering, and Automation**.  
-- Publishing technical tutorials on my [Blog](https://www.codecraftpython.com).  
-- Building the *CodeCraft Python* series (e-book + articles).
+I publish technical content about **Python**, **automation**, and **software development** at [CodeCraft Python](https://www.codecraftpython.com).
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -117,10 +93,10 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
 - [The Python Walrus Operator (`:=`): When to Use Assignment Expressions](https://codecraftpython.com/en/blog/the-python-walrus-operator-when-to-use-assignment-expressions) — Feb 24, 2026
 <!-- BLOG-POST-LIST:END -->
 
-
 ---
 
 ## 📊 GitHub Stats
+
 <a href="https://github.com/Jeferson-Peter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-Peter&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
@@ -146,4 +122,3 @@ With a passion for learning and problem-solving, I aim to deliver impactful solu
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-jefersonpeter.com-6a1b9a?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
-
