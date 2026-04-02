@@ -82,6 +82,8 @@ I publish technical content about **Python**, **automation**, and **software dev
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Error Handling Patterns in Python: Clean, Predictable, and Safe](https://codecraftpython.com/en/blog/error-handling-patterns-in-python-clean-predictable-and-safe) — Mar 31, 2026
+
 - [Better Logging in Python with Loguru: A Cleaner Alternative to logging](https://codecraftpython.com/en/blog/better-logging-in-python-with-loguru-a-cleaner-alternative-to-logging) — Mar 24, 2026
 
 - [pathlib vs os.path: A Modern Way to Handle File Paths](https://codecraftpython.com/en/blog/pathlib-vs-ospath-a-modern-way-to-handle-file-paths) — Mar 17, 2026
@@ -89,8 +91,6 @@ I publish technical content about **Python**, **automation**, and **software dev
 - [contextlib: Create Your Own Context Manager](https://codecraftpython.com/en/blog/contextlib-create-your-own-context-manager) — Mar 10, 2026
 
 - [Generators with yield: Lazy Iteration Made Simple](https://codecraftpython.com/en/blog/generators-with-yield-lazy-iteration-made-simple) — Mar 3, 2026
-
-- [The Python Walrus Operator (`:=`): When to Use Assignment Expressions](https://codecraftpython.com/en/blog/the-python-walrus-operator-when-to-use-assignment-expressions) — Feb 24, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
