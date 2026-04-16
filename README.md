@@ -82,6 +82,8 @@ I publish technical content about **Python**, **automation**, and **software dev
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Concurrency vs Parallelism in Python: What Really Matters](https://codecraftpython.com/en/blog/concurrency-vs-parallelism-in-python-what-really-matters) — Apr 14, 2026
+
 - [Project Layout in Python: Why the `src/` Structure Matters](https://codecraftpython.com/en/blog/project-layout-in-python-why-the-src-structure-matters) — Apr 7, 2026
 
 - [Error Handling Patterns in Python: Clean, Predictable, and Safe](https://codecraftpython.com/en/blog/error-handling-patterns-in-python-clean-predictable-and-safe) — Mar 31, 2026
@@ -89,8 +91,6 @@ I publish technical content about **Python**, **automation**, and **software dev
 - [Better Logging in Python with Loguru: A Cleaner Alternative to logging](https://codecraftpython.com/en/blog/better-logging-in-python-with-loguru-a-cleaner-alternative-to-logging) — Mar 24, 2026
 
 - [pathlib vs os.path: A Modern Way to Handle File Paths](https://codecraftpython.com/en/blog/pathlib-vs-ospath-a-modern-way-to-handle-file-paths) — Mar 17, 2026
-
-- [contextlib: Create Your Own Context Manager](https://codecraftpython.com/en/blog/contextlib-create-your-own-context-manager) — Mar 10, 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
